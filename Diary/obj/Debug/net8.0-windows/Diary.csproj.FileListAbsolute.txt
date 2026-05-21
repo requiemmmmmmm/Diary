@@ -1,0 +1,14 @@
+C:\Users\vladr\OneDrive\Рабочий стол\Diary\Diary\bin\Debug\net8.0-windows\Diary.exe
+C:\Users\vladr\OneDrive\Рабочий стол\Diary\Diary\bin\Debug\net8.0-windows\Diary.deps.json
+C:\Users\vladr\OneDrive\Рабочий стол\Diary\Diary\bin\Debug\net8.0-windows\Diary.runtimeconfig.json
+C:\Users\vladr\OneDrive\Рабочий стол\Diary\Diary\bin\Debug\net8.0-windows\Diary.dll
+C:\Users\vladr\OneDrive\Рабочий стол\Diary\Diary\bin\Debug\net8.0-windows\Diary.pdb
+C:\Users\vladr\OneDrive\Рабочий стол\Diary\Diary\obj\Debug\net8.0-windows\Diary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladr\OneDrive\Рабочий стол\Diary\Diary\obj\Debug\net8.0-windows\Diary.AssemblyInfoInputs.cache
+C:\Users\vladr\OneDrive\Рабочий стол\Diary\Diary\obj\Debug\net8.0-windows\Diary.AssemblyInfo.cs
+C:\Users\vladr\OneDrive\Рабочий стол\Diary\Diary\obj\Debug\net8.0-windows\Diary.csproj.CoreCompileInputs.cache
+C:\Users\vladr\OneDrive\Рабочий стол\Diary\Diary\obj\Debug\net8.0-windows\Diary.dll
+C:\Users\vladr\OneDrive\Рабочий стол\Diary\Diary\obj\Debug\net8.0-windows\refint\Diary.dll
+C:\Users\vladr\OneDrive\Рабочий стол\Diary\Diary\obj\Debug\net8.0-windows\Diary.pdb
+C:\Users\vladr\OneDrive\Рабочий стол\Diary\Diary\obj\Debug\net8.0-windows\Diary.genruntimeconfig.cache
+C:\Users\vladr\OneDrive\Рабочий стол\Diary\Diary\obj\Debug\net8.0-windows\ref\Diary.dll
